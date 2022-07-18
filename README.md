@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### I'm a Web Developer working in Phoenix, Arizona.
+
+##### BIO
+- 🏢 I'm currently working at SwitchThink Solutions.
+- 🌱 I’m currently learning `Vue.js`, `C#`, `Tailwind.css`, and `.NET`.
+- 📫 Reach me: 
+
 <!--
 **deasells/deasells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
